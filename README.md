@@ -14,21 +14,15 @@ Cara Run bot tanpa pc atau di Android :
 - pip2 install thrift==0.9.3
 - pkg install git
 - pkg install nano
-- git clone https://github.com/fajrinard/Line-TCR
+- git clone https://github.com/Redsamuri/Redsamuri.github.io.git
 - cd Line-TCR
-- nano line-tcr.py
+- nano (name).py
 - (isi admin=["YOUR_MID"], ganti kata YOUR_MID dengan mid akun utama yang ingin dijadikan admin) (biarkan tanda kutipnya)
+- (isi login(token="YOUR TOKEN"
 - (lalu save; ctrl X + Y + enter) (gunakan Hacker's Keyboard, download di playstore)
-- python2 line-tcr.py
-- (login link/qr ke akun bot)
-- Selesai
+- python2 (name).py
 
 
-Thanks to :
-- Allah SWT
-- merkremont
-- AlfathDirk
-- team TCR
-- dan para mastah/programmer lainnya
+Thanks to 
 
-#ArdSquadBot
+#RedsamuriBot
